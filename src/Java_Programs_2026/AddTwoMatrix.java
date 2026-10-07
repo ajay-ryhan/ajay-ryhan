@@ -3,7 +3,6 @@ public class AddTwoMatrix {
     public static void main(String[] args) {
 
         int rows, columns;
-
         int first[][] = {{1, 3}, {5, 10}, {6, 8}};
         int second[][] = {{2, 1}, {5, 4}, {4, 2}};
 
