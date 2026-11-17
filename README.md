@@ -28,10 +28,10 @@ A personal project where I collect, curate, and organize QA interview questions 
 
 ### 📄 Resume
 
-[View My Resume]([AJAY_SRI_BALAJI.pdf](https://github.com/user-attachments/files/34966728/AJAY_SRI_BALAJI.pdf))
+[Download My Resume (PDF)](https://github.com/user-attachments/files/34966728/AJAY_SRI_BALAJI.pdf)
 
 ### 📫 Connect With Me
 
 - **Email:** ajay.ryhan@gmail.com
 - **GitHub:** https://github.com/ajay-ryhan
-- **LinkedIn:**www.linkedin.com/in/ajay-sri-balaji
+- **LinkedIn:** www.linkedin.com/in/ajay-sri-balaji
